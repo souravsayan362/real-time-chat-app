@@ -92,7 +92,7 @@ Add screenshots of your application here.
 **Sayan Sourav Sahoo**
 
 * GitHub: https://github.com/souravsayan362
-* LinkedIn: Add your LinkedIn profile link here
+* LinkedIn: https://www.linkedin.com/in/sayan-sourav-sahoo-147567365/
 
 ## 📄 License
 
